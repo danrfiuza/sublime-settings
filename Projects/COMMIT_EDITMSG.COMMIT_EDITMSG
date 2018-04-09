@@ -1,0 +1,40 @@
+first
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/recent.json b/recent.json
+new file mode 100644
+index 0000000..2a09f89
+--- /dev/null
++++ b/recent.json
+@@ -0,0 +1,3 @@
++[
++   "~/.config/sublime-text-3/Packages/User/Projects/zcetests.sublime-project"
++]
+diff --git a/zcetests.sublime-project b/zcetests.sublime-project
+new file mode 100644
+index 0000000..8e7507b
+--- /dev/null
++++ b/zcetests.sublime-project
+@@ -0,0 +1,11 @@
++{
++   "folders":
++   [
++       {
++           "path": "~/zce"
++       },
++        {
++            "path": "~/tests"
++        }
++   ]
++}
+diff --git a/zcetests.sublime-workspace b/zcetests.sublime-workspace
+new file mode 100644
+index 0000000..2c63c08
+--- /dev/null
++++ b/zcetests.sublime-workspace
+@@ -0,0 +1,2 @@
++{
++}

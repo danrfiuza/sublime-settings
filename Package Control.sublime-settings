@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Git",
+		"GitStatus",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"ProjectManager",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-contrib-php-cs-fixer",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-pylint"
+	]
+}
